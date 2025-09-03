@@ -38,7 +38,7 @@ const pageClass = pageClassMap[location.pathname] || 'default';
                     <Link to="/laozi">Laozi</Link>
                 </li>   
                 <li id="you_have_found_a_secret" className="hidden font-semibold transition duration-500 hover:text-green-800">
-                    <Link to="/doctor">Doctor</Link>
+                    <Link to="/doctor">The Doctor</Link>
                 </li>     
             </ul>
         </div>
